@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Paytone One", sans-serif;
+}
+
+ul{
+    float: right;
+    margin-top: 45px;
+    margin-right: 50px;
+    min-height: 30px;
+    font-size: x-large;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(116, 11, 116);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+ul li a:hover{
+    background-color: rgb(107, 74, 107);
+    color: rgb(255, 255, 255);
+}
+
+.me{
+    text-align: center;
+    margin: 5px;
+}
+.me p{
+    font-size: 25px;
+    color: rgb(102, 5, 102);
+    border: 2px solid;
+    border-radius: 20px;
+    display: inline-block;
+    width: fit-content;
+    padding: 15px;
+    white-space: pre-wrap;
+
+}
+
+.skill{
+    text-align: center;
+    margin: 20px;
+}
+.skill h3{
+    font-size: 28px;
+    color: rgb(59, 3, 59);
+    text-align: center;
+}
+
+.skill p{
+    margin: 40px;
+    font-size: 25px;
+    color: rgb(102, 5, 102);
+    border: 2px solid;
+    border-radius: 20px;
+    display: inline-block;
+    width: fit-content;
+    padding: 15px;
+    white-space: pre-wrap;
+}
+
+.example1{
+    margin: 20px;
+    text-align: center;
+}
+
+.example1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+    border-radius: 10px;
+}
+
+.example2{
+    margin: 20px;
+    text-align: center;
+}
+
+.example2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+    border-radius: 10px;
+}
+
+.example3{
+    margin: 20px;
+    text-align: center;
+}
+
+.example3 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+    border-radius: 10px;
+}
+
+.tel{
+    text-align: center;
+    margin: 5px;
+}
+
+.tel p{
+    font-size: 25px;
+    color: rgb(102, 5, 102);
+}
+
+.adirek{
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.adirek p{
+    margin: 40px;
+    font-size: 25px;
+    color: rgb(102, 5, 102);
+    border: 2px solid;
+    border-radius: 20px;
+    display: inline-block;
+    height:fit-content;
+    padding: 15px;
+    white-space: pre-wrap;
+}
+
+.hya{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 10px;
+   
+}
+
+.more{
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.more p{
+    margin: 40px;
+    font-size: 25px;
+    color: rgb(102, 5, 102);
+    border: 2px solid;
+    border-radius: 20px;
+    display: inline-block;
+    height:fit-content;
+    padding: 15px;
+    white-space: pre-wrap;
+}
+
+.volley{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+    border-radius: 10px;
+}
