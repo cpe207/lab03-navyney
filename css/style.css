@@ -4,14 +4,6 @@
     font-family: "Paytone One", sans-serif;
 }
 
-ul{
-    float: right;
-    margin-top: 45px;
-    margin-right: 50px;
-    min-height: 30px;
-    font-size: x-large;
-}
-
 ul li{
     display: inline-block;
 }
